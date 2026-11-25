@@ -150,13 +150,13 @@ Task-2-Feature-Engineering/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Ash835/feature-engineering-preprocessing.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd Task-2-Feature-Engineering
+cd feature-engineering-preprocessing
 ```
 
 ### 3. Install dependencies
